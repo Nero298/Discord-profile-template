@@ -1,0 +1,6 @@
+{
+  "name": "bio-site",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Responsive personal bio site with music player and optional Vercel visitor counter"
+}
