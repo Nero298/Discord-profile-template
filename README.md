@@ -1,5 +1,6 @@
 # Bio Site
 
+An shitty bio make by claude and gpt(gpt ruined it)
 A responsive personal profile page with animated effects, a music player, Discord status integration, and an optional visitor counter for Vercel.
 
 ## Features
